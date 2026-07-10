@@ -1,7 +1,8 @@
-Mexicano OS uses the HorseyHerd AUPS License. (HorseyHerd Any Use Secure Public License)
+Mexicano OS uses the HorseyHerd AUSP License. (HorseyHerd Any Use Secure Public License)
 
-The HorseyHerd AUPS License (or HAUSP License) allows anyone to use the source code of the software in which the license is in for any purpose commercial or non-commercial.
-The HorseyHerd AUPS License requires that anyone using the source code of the original HorseyHerd software has their source code open-source on GitHub. As long as the source code of the project is open-source on GitHub, the source-code may also be provided anywhere else. The only exception to this is if a developer has official permission from HorseyHerd that can be proved to keep the code either not open-source, or not on GitHub. Any HorseyHerd groups may put paid for versions of software at desired locations.
-The HorseyHerd AUPS License requires updates from the original software to be used in some aspect of the project until discontinued.
-The HorseyHerd AUPS License means that upon the software being discontinued, HorseyHerd (and all groups below, such as HorseyHerd Studios) now are the owners of that software. But until the software is discontinued, the individual using the source-code of the software owns their code, and owes 0 royalties, payments, etc.
-The HorseyHerd AUPS License is permitted for software only originally from any HorseyHerd groups (such as HorseyHerd Studios).
+The HorseyHerd AUSP License (or HAUSP License) allows anyone to use the source code of the software in which the license is in for any purpose commercial or non-commercial.
+The HorseyHerd AUSP License requires that anyone using the source code of the original HorseyHerd software has their source code open-source on GitHub. As long as the source code of the project is open-source on GitHub, the source-code may also be provided anywhere else. The only exception to this is if a developer has official permission from HorseyHerd that can be proved to keep the code either not open-source, or not on GitHub. Any HorseyHerd groups may put paid for versions of software at desired locations.
+The HorseyHerd AUSP License requires updates from the original software to be used in some aspect of the project until discontinued.
+The HorseyHerd AUSP License means that upon the software being discontinued, HorseyHerd (and all groups below, such as HorseyHerd Studios) now are the owners of that software. But until the software is discontinued, the individual using the source-code of the software owns their code, and owes 0 royalties, payments, etc.
+The HorseyHerd AUSP License is permitted for software only originally from any HorseyHerd groups (such as HorseyHerd Studios).
+The HorseyHerd AUSP License requires that modified, original, copied, etc. versions of the software are required to store the MIT License in the software files and credit Godot as the method the software was built using.
